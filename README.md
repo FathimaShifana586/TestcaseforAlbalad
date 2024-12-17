@@ -43,8 +43,8 @@ Follow these steps to set up the environment:
 
    - Clone the project repository to your local machine:
      ```bash
-     git clone <repository-url>
-     cd <repository-name>
+     git clone <add after clone the git in vs>
+     cd <add after the git clone>
      ```
 
 2. **Install Node Dependencies**
