@@ -8,7 +8,7 @@ Ensure the following prerequisites are installed and configured before proceedin
 
 1. **Node.js and npm**
 
-   - Download and install the latest LTS version of Node.js from [Node.js Official Website](https://nodejs.org/).
+   - Download and install the latest LTS version of Node.js v22.12.0 from [Node.js Official Website](https://nodejs.org/).
    - Verify the installation using:
      ```bash
      node -v
@@ -17,7 +17,7 @@ Ensure the following prerequisites are installed and configured before proceedin
 
 2. **Git**
 
-   - Install Git from [Git Official Website](https://git-scm.com/).
+   - Install Git version 2.47.1 from [Git Official Website](https://git-scm.com/).
    - Verify the installation using:
      ```bash
      git --version
@@ -54,7 +54,7 @@ Follow these steps to set up the environment:
      npm install
      ```
 
-3. **Install Playwright Browsers**
+3. **Install Playwright version 1.49 Browsers**
 
    - Use the Playwright CLI to install necessary browsers:
      ```bash
