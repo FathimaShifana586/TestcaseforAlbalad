@@ -43,8 +43,8 @@ Follow these steps to set up the environment:
 
    - Clone the project repository to your local machine:
      ```bash
-     git clone <add after clone the git in vs>
-     cd <add after the git clone>
+     git clone <https://github.com/FathimaShifana586/TestcaseforAlbalad.git>
+     cd <tests>
      ```
 
 2. **Install Node Dependencies**
